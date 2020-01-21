@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1579522636 source:s:\university\programming\c++_codes\Ã∞≥‘…ﬂ\food.cpp
+	"head.h"
+
+1579607271 s:\university\programming\c++_codes\Ã∞≥‘…ﬂ\head.h
+	<iostream>
+	<vector>
+	<string>
+	<time.h>
+	<windows.h>
+
+1579609371 source:s:\university\programming\c++_codes\Ã∞≥‘…ﬂ\main.cpp
+	"head.h"
+
+1579608548 source:s:\university\programming\c++_codes\Ã∞≥‘…ﬂ\map.cpp
+	"head.h"
+
+1579607339 source:s:\university\programming\c++_codes\Ã∞≥‘…ﬂ\snake.cpp
+	"head.h"
+
+1579603988 source:s:\university\programming\c++_codes\Ã∞≥‘…ﬂ\other_class.cpp
+	"head.h"
+
+1579609906 source:s:\university\programming\c++_codes\Ã∞≥‘…ﬂ\controller.cpp
+	"head.h"
+
